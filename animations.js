@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function (e) {
     scroller
         .setup({
             step: $sections,
-            offset: 0.3,
+            offset: 0.9,
             once: true,
             debug: debug,
         })

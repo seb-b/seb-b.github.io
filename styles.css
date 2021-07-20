@@ -1,7 +1,9 @@
 
 .header {
     height: 90vh;
-    text-align: ce;
+    padding-top: 35vh;
+    text-align: center;
+    background-color: aquamarine;
 }
 .l-prose-blocks__block {
     position: relative;
