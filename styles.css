@@ -5,6 +5,7 @@
 }
 .l-prose-blocks__block {
     position: relative;
+    border-top: 1px solid red;
 }
 
 .l-prose-blocks__block + .l-prose-blocks__block {
